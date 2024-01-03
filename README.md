@@ -5,6 +5,9 @@
 
 ![Icon](http://res.cloudinary.com/amuroboclub/image/upload/v1488898371/carjack_rvksdf.png)
 
+### Credits
+Areeb Jamal
+
 ### carjack
 Carjack is a simple car rental web app made using PHP and MySQL following MVP and Object Oriented design pattern!
 
